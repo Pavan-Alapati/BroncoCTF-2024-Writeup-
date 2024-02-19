@@ -16,7 +16,7 @@ The challenge "Keyboard Elitist" involved decrypting a message that appeared as 
 You can find more information about keyboards [here](https://cubedhuang.com/extras/misc/keyboards/).
 
 
-###  --------------------------------------------------------------------------------------------------------------------------
+###  -------------------------------------------------------------------------------------------------------
 
 
 ## Shrekanana Banana   (Beginner)
@@ -29,7 +29,7 @@ Decrypted flag from the image [ decrypted image ](https://aperisolve.com/a3c60e5
 You can find more information about this [here](https://aperisolve.com/)
 
 
-###  --------------------------------------------------------------------------------------------------------------------------
+###  ------------------------------------------------------------------------------------------------------
 
 ## Stego-Snore-Us   ( Beginner )
 
